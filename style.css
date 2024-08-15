@@ -1,0 +1,136 @@
+
+header{
+    margin: 70px;
+}
+header a{
+    float: right;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+
+#sign_up{
+    color: whitesmoke;
+    background-color: black;
+}
+#log_in{
+    color: black;
+    background: white;
+}
+
+#main #main-img{
+    height: 40%; 
+    width: 40%;
+    float: right;
+    margin-right: 35px;
+    box-shadow: 5px 5px 0px 5px #ff6736;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+#main{
+    margin: 70px;
+}
+#main strong{
+    font-size: 40px;
+    left: 40px;
+    text-align: left;
+}
+
+#search{
+    border: 1px solid rgb(194, 188, 188);
+    width: 27%;
+    padding: 5px;
+    border-radius: 5px;
+}
+#search input{
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    
+}
+#search #se-bt{
+    border: 1px solid #ff6736;
+    background: #ff6736;
+    padding: 5px;
+    width: 60px;
+    position: relative;
+    left: 65px;
+    color: aliceblue;
+}
+#acc-bui img{
+    height: 40px;
+    width: 60px;
+}
+
+#acc-bui{
+    display: flex;
+}
+#acc-bui span{
+    padding-top: 10px;
+}
+
+#sec-2{
+    background-color: #f7f7f7;
+    border: 1px solid whitesmoke;
+    padding: 25px;
+    align-items: center;
+    
+}
+#sec-3{
+    margin: 70px;
+}
+#sec-3 h1{
+    font-size: 30px;
+}
+#sec-3 img{
+    height: 50%;
+    width: 28%;
+    float: right;
+}
+
+#sec-4{
+    pre{
+        margin-top: 20px;
+        margin-left: 70px;
+        margin-right: 70px;
+        color: #bab5b5;
+    }
+}
+
+#sec-4{
+    b{
+        color: rgb(133, 130, 130);
+    }
+}
+
+footer{
+    p{
+        margin-left: 70px;
+        margin-top: -35px;
+    }
+}
+footer{
+    background-color: #e7ede3;
+    bottom: 0%;
+    display: flex;
+}
+footer #useful-links{
+    left: 50px;
+    margin-top: 35px;
+}
+
+footer pre{
+    font-family: serif;
+}
+
+footer pre a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: none;
+}
